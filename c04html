@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>个人简历</title>
+</head>
+<body bgcolor="silver">
+<h1 align="center">个人简历</h1>
+  <h1><mytab>河银色</mytab> </h1>
+<h3>Stay hungry, stay foolish.</h3>
+<h5>天津大学软件工程专业 2016 级本科在读
+<br>地址：<a href="https://j.map.baidu.com/z72aZ">天津大学北洋园校区 正园九斋</a>
+<br>电话：+86 980 9090 9980 
+<br>博客：<a href="www.hshsilver.com">hshsilver.com</a>
+  <br>邮件：<a href = "mailto:hshsilver@qq.com">hshsilver@qq.com</a>
+  </h5>
+  <br><br><h2>项目经验</h2>
+ <ol>
+<li>TWTStudio
+   <table border="1">
+<tr>
+  <td align = "center">&nbsp产品&nbsp</td>
+  <td>&nbsp微北洋
+    <ol class = "liebiao">
+      <li><a class = "xcolor" href="#">一键上网</a></li>
+      <li><a class = "xcolor" href="#">菜品点评</a></li>
+      <li><a class = "xcolor" href="#">阅读</a></li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td align = "center">
+    &nbsp运营&nbsp
+  </td>
+  <td>
+    &nbsp问津
+     <ol>
+       <li><a class = "xcolor" href="#">问津周刊</a></li>
+      <li><a class = "xcolor" href="#">问津拓荒计划</a></li>
+      <li><a class = "xcolor" href="#">日常运营</a></li>
+     </ol> 
+    &nbsp求实BBS
+     <ol>
+      <li><a class = "xcolor" href="#">日常运营</a></li>
+      <li><a class = "xcolor" href="#">重版盖楼活动</a></li>
+     </ol> 
+  </td>
+</tr>
+</table>
+   </li>
+<li>Others</li>
+</ol>
+  <h4>这<br>是<br>背<br>景<br></h4>
+
+ </body>
+
+
+</html>
+
