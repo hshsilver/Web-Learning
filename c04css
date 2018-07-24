@@ -1,0 +1,65 @@
+
+h1 {
+    font-size: 32px;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 4px 4px 5px white;
+    background-color:gray;
+  
+
+}
+h2 {
+    color: blue;
+    font-weight: normal;
+  border-left:solid;
+  border-width:2px;
+}
+h3{
+  font-style: italic;
+  text-decoration: underline overline;
+  text-align: center;
+  
+  
+}
+h4{
+   background-image:url(https://www.twt.edu.cn/static/logo.png)
+ 
+
+}
+h5{
+  border-style: outset;
+    border-color: blue rgb(25%,35%,45%) #909090 red
+   
+}
+}
+ol{
+  list-style-type: upper-roman;
+}
+a:link {color:#FF0000;text-decoration:none;}    /* 未被访问的链接 */
+a:visited {color:#00FF00;text-decoration:none;} /* 已被访问的链接 */
+a:hover {color:#FF00FF;text-decoration:underline;}   /* 鼠标指针移动到链接上 */
+a:active {color:#0000FF;text-decoration:underline;}  /* 正在被点击的链接 */
+
+h1 mytab{
+  background-color:silver;
+}
+[href^=http]::after {
+  content: '⤴';
+}
+
+h5::first-letter {
+  font-size: 1.5em;
+  border: 1px solid black;
+  background: blue;
+  display: block;
+  float: left;
+  padding: 1px;
+  margin-right: 4px;
+}
+
+li li:nth-of-type(2n) {
+  background-color: #ccc;
+}
+li li:nth-of-type(2n+1) {
+  background-color: #eee;
+}/*不用管xcolor了*/
